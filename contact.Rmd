@@ -1,7 +1,7 @@
 
 ---
 title: ""
-author: "John Appleseed"
+author: "Hyun-Bi Park"
 date: 
 output: html_document
 ---
@@ -12,9 +12,9 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-#### **John Appleseed**
-##### M.S. Candidate in Data Science | ABC University <img src="images/college_logo.png" style="width:35%;" align="right">
+#### **Hyun-Bi Park**
+##### M.S. Candidate in Business Analyics | University of Southern California <img src="images/college_logo.png" style="width:35%;" align="right">
 
-📍 Seoul <br>
-📱 (123) 456 - 7890 <br>
-✉️ [jappleseed@abc.edu](mailto:jappleseed@abc.edu) <br>
+📍 Los Angeles, CA <br>
+📱 (213) 234 - 8976 <br>
+✉️ [hyun-bi.park.2024@marshall.usc.edu](mailto: hyun-bi.park.2024@marshall.usc.edu) <br>

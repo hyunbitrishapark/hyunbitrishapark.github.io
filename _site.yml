@@ -13,6 +13,8 @@ navbar:
       menu: 
       - text: "Predicting House Prices in Iowa"
         href: stat1.html
+      - text: "Predicting Airbnb prices in NYC"
+        href: stat2.html  
     - text: "DB/SQL"
       menu: 
       - text: "Movie Explorer"
@@ -24,16 +26,16 @@ navbar:
   right:
     - icon: fas fa-envelope
       href: contact.html
-    #- icon: ai-cv ai-lg
-    #  href: files/sample_resume.pdf
+    - icon: ai-cv ai-lg
+      href: files/Resume_Hyun-Bi Park_202310.pdf
     - icon: fab fa-github
-      href: http://github.com/
+      href: https://hyunbitrishapark.github.io/
     - icon: fab fa-linkedin-in
-      href: https://www.linkedin.com/
-    - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/
-    - icon: ai-researchgate ai-lg
-      href: https://www.researchgate.net/
+      href: https://www.linkedin.com/in/hyunbi-park
+    #- icon: ai-google-scholar ai-lg
+    #  href: https://scholar.google.com/
+    #- icon: ai-researchgate ai-lg
+    #  href: https://www.researchgate.net/
 output:
   html_document:
     theme: cosmo
