@@ -9,35 +9,25 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile_pic.jpg" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
+<img src="images/profile_pic.jpg" style="width:20%; border:0.5px solid; margin-right: 20px" align="center">
 </p>
 <br>
 
-🚨*THIS IS A FICTIONAL PROFILE MEANT AS AN EXAMPLE FOR THE DATA KORLAB COMMUNITY.* 
-<br><br><br>
-👋🏽 Hello, my name is John Appleseed. 
+<br><br>
+👋🏽 Hello, my name is Hyun-Bi Park. 
 
-🎓 Soon to be grad with a M.S. in Data Science at ABC University. (May 2022)
+🎓 Soon to be grad with a M.S. in Business Analytics at University of Southern California. (Dec 2024)
 
-🌇 New York City Native, with a passion for developing and applying mathematical and statistical models to hands-on strategies that will grow business.
+🌇 born and raised in Seoul, South Korea, with a passion for developing and applying statistical models to hands-on strategies that will grow business. 
 
-📚 **Talk about your past experience, your present experience, and what you did (about 4-5 sentences)**
+📚 Worked at the Coca-Cola Company for a total of 6 and a half years as a Data Connection Analyst in a Global Marketing Data Measurement and Partnership team, managing consumer data with marketing metrics
 
-...
+💻 As for my future, I hope to work as a data analyst role and work with an engineering team, marketing team and strategy team.
 
-💻 **Talk about what you want to do in the future (2 sentences)**
+🏔 I spend my spare time by learning choreography, traveling and working out
 
-e.g. 💻 As for my future, I hope to one day work as a data analyst/scientist/engineer role and work with a marketing team.
+💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
 
-🏔 **Talk about hobbies(1 sentence)**
-
-e.g. 🏔In my free time, you can find me rock climbing.
-
-💪 **Highlight your strengths, use keywords (5-6)**
-
-e.g. 💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
-
-+ Programming: Python, R
++ Programming: Python (Numpy, Pandas, Matplotlib, Seaborn, SciPy)
 + Data visualization: Tableau Software, Power BI
-+ Database: SQL, Postgre SQL, MongoDB, Neo4j
-+ Cloud Computing: AWS, GCP (BigQuery), Azure
++ Database: SQL (MySQL)
