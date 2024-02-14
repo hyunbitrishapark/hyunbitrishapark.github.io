@@ -7,22 +7,22 @@ output_dir: "."
 navbar:
   title: "Hyun-Bi Park"
   left:
-    - text: "Tutorials"
-      href: tutorials.html
+    ##- text: "Tutorials"
+      ##href: tutorials.html
     - text: "Stat/ML"
       menu: 
       ##- text: "Predicting House Prices in Iowa"
         ##href: stat1.html
       - text: "Predicting shipment time range and evaluating delay risk"
         href: stat2.html  
-    - text: "DB/SQL"
-      menu: 
-      - text: "Movie Explorer"
-        href: dbsql1.html
-    - text: "Visualization"
-      menu: 
-      - text: "Squid Game Elimination Analysis"
-        href: visualization1.html
+    ##- text: "DB/SQL"
+      ##menu: 
+      ##- text: "Movie Explorer"
+        ##href: dbsql1.html
+    ##- text: "Visualization"
+      ##menu: 
+      ##- text: "Squid Game Elimination Analysis"
+        ##href: visualization1.html
   right:
     - icon: fas fa-envelope
       href: contact.html

@@ -20,6 +20,9 @@ output:
 ![](https://img.shields.io/badge/-LASSO-red)
 ![](https://img.shields.io/badge/-XGBoost-success)
 ![](https://img.shields.io/badge/-DecisionTree-orange)
+![](https://img.shields.io/badge/-NeuralNetworks-green)
+![](https://img.shields.io/badge/-SupportVectorMachine-purple)
+![](https://img.shields.io/badge/-LogisticRegression-black)
 
 <br>
 
