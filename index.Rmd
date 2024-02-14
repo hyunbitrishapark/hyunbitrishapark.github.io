@@ -9,25 +9,31 @@ output: html_document
 <br>
 
 <p align="center">
-<img src="images/profile_pic.jpg" style="width:30%; border:0.5px solid; margin-right: 20px" align="center">
+<img src="images/profile_pic_marshall.jpg" style="width:30%; border:0.5px solid; margin-right: 20px" align="center">
 </p>
 <br>
 
 <br><br>
-👋🏽 Hello, my name is Hyun-Bi Park. 
+👋🏽 Hello, my name is **Hyun-Bi Park**. 
 
-🎓 Soon to be grad with a M.S. in Business Analytics at University of Southern California. (Dec 2024)
+🔥 Passionate for developing and applying statistical models to hands-on strategies that will grow business. 
 
-🌇 born and raised in Seoul, South Korea, with a passion for developing and applying statistical models to hands-on strategies that will grow business. 
+🎓 Soon to be grad with a M.S. in Business Analytics at University of Southern California. (December 2024)
 
-📚 Worked at the Coca-Cola Company for a total of 6 and a half years as a Data Connection Analyst in a Global Marketing Data Measurement and Partnership team, managing consumer data with marketing metrics
+💼 6.4 years of work experience at **The Coca-Cola Company**, managing and analyzing consumer and shopper data from various sources; e-commerce channels, mobile app and panel survey.
 
-💻 As for my future, I hope to work as a data analyst role and work with an engineering team, marketing team and strategy team.
++ **Data Connection Analyst**
 
-🏔 I spend my spare time by learning choreography, traveling and working out
+💪 Specialties in analyzing customer-driven data with SQL, Tableau and Power BI applying insights to actionable strategies as well as helping various teams make decisions and build strategic plans. 
 
-💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies
++ **Programming**: Python
 
-+ Programming: Python (Numpy, Pandas, Matplotlib, Seaborn, SciPy)
-+ Data visualization: Tableau Software, Power BI
-+ Database: SQL (MySQL)
++ **Data Visualization**: Tableau, Power BI
+
++ **Database Management**: SQL, PostgreSQL
+
++ **Project Management Tool**: JIRA
+
++ **Knowledge**: Machine Learning (Supervised, Unsupervised), Deep Learning, Hypothesis Testing, Regression
+
+🏔 I spend my spare time by learning choreography, traveling and working out.
