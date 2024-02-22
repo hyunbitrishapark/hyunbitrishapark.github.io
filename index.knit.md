@@ -1,0 +1,39 @@
+---
+pagetitle: "Index"
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br>
+
+<p align="center">
+<img src="images/profile_pic_marshall.jpg" style="width:30%; border:0.5px solid; margin-right: 20px" align="center">
+</p>
+<br>
+
+<br><br>
+👋🏽 Hello, my name is **Hyun-Bi Park**. 
+
+🔥 Passionate for developing and applying statistical models to hands-on strategies that will grow business. 
+
+🎓 Soon to be grad with a M.S. in Business Analytics at University of Southern California. (December 2024)
+
+💼 6.4 years of work experience at **The Coca-Cola Company**, managing and analyzing consumer and shopper data from various sources; e-commerce channels, mobile app and panel survey.
+
++ **Data Connection Analyst**
+
+💪 Specialties in analyzing customer-driven data with SQL, Tableau and Power BI applying insights to actionable strategies as well as helping various teams make decisions and build strategic plans. 
+
++ **Programming**: Python
+
++ **Data Visualization**: Tableau, Power BI
+
++ **Database Management**: SQL, PostgreSQL
+
++ **Project Management Tool**: JIRA
+
++ **Knowledge**: Machine Learning (Supervised, Unsupervised), Deep Learning, Hypothesis Testing, Regression
+
+🏔 I spend my spare time by learning choreography, traveling and working out.

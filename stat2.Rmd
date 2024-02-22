@@ -71,9 +71,9 @@ Forecasting the duration of shipments and assessing the likelihood of delayed de
   
 <b>Evaluation and Summary</b>
   
-  + Predicting shipment time range: The XGBoost model also performs very well with a cross validation RMSE of 0.1162.
+  + <b>Predicting shipment time range</b>: Based on the RMSE values alone, the Support Vector Machine Regression model (10.59) would be the best choice among the three (XGBoost: 11.22, Neural Networks: 11.09) for predicting outcomes, as it has the lowest RMSE.
   
-  + Evaluating the likelihood of delivery delays : Considering Accuracy, Precision, Recall and AUC scores, the Logistic Regression model (Accuracy: 69.13%, Precision: 79.64%, Recall: 58.93% , ACU scores: 0.70) offers the best balance between all metrics, with the highest accuracy and precision and a competitive AUC score. Thus, the Logistic Regression model is the best overall model among the three.
+  + <b>Evaluating the likelihood of delivery delays</b>: Considering Accuracy, Precision, Recall and AUC scores, the Logistic Regression model (Accuracy: 69.13%, Precision: 79.64%, Recall: 58.93% , ACU scores: 0.70) offers the best balance between all metrics, with the highest accuracy and precision and a competitive AUC score. Thus, the Logistic Regression model is the best overall model among the three.
 
 <br>
 
