@@ -23,6 +23,7 @@ output:
 ![](https://img.shields.io/badge/-NeuralNetworks-green)
 ![](https://img.shields.io/badge/-SupportVectorMachine-purple)
 ![](https://img.shields.io/badge/-LogisticRegression-black)
+![](https://img.shields.io/badge/-RandomForest-yellow)
 
 <br>
 
@@ -47,8 +48,6 @@ output:
 <p align="center">
 [Fig. ROC Curves by Each Model]
 </p>
-
-<br>
 
 <br><br>
 
