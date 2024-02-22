@@ -409,25 +409,47 @@ STEPBYSTAT COMMUNITY.</strong></p>
 </div>
 <div id="goal" class="section level3">
 <h3>2. Goal</h3>
-<p>To predict the final price of each home using 79 explanatory
-variables describing (almost) every aspect of residential homes in Ames,
-Iowa.</p>
+<p>Forecasting the duration of shipments and assessing the likelihood of
+delayed deliveries.</p>
+<ul>
+<li><p>Developing Machine learning models to ascertain the potential
+shipping time range by forecasting both the quickest and typical
+delivery durations for shipments, encompassing both domestic and
+international customers.</p></li>
+<li><p>Constructing a Binary Classifier to identify orders with a
+significant likelihood of experiencing delays (Late Delivery Risk
+Analyzer).</p></li>
+</ul>
 <p><br></p>
 </div>
 <div id="methodology-summary" class="section level3">
 <h3>3. Methodology &amp; Summary</h3>
+<p><b>Methodology</b></p>
 <ul>
-<li>LASSO regressions showed the best performance with a cross
-validation RMSE-score of 0.1121. Although there is a lot of
-multicollinearity among the variables, LASSO regression include feature
-selection; it does not select a substantial number of the available
-variables in its model, as it is supposed to do.</li>
-<li>The XGBoost model also performs very well with a cross validation
-RMSE of 0.1162.</li>
-<li>As those two algorithms are very different, averaging predictions is
-likely to improve the predictions. As the Lasso cross validated RMSE is
-better than XGBoost’s CV score, I decided to weight the Lasso results
-double.</li>
+<li>Conducted exploratory data analysis to understand various shipment
+data and processed the data to build Various machine learning models
+such as XGBoost, Support Vector Machines (SVM), and Neural Networks to
+estimate shipment time ranges, enhancing accuracy in forecasting
+delivery schedules.</li>
+<li>Performed feature selection by using Lasso cross-validation to
+choose important features and employed Decision Tree, Logistic
+Regression, and Random Forest models for a binary classification problem
+aimed at evaluating the likelihood of delivery delays.</li>
+<li>The evaluation of the model’s effectiveness was carried out using
+several metrics, such as Root Mean Square Error (RMSE), accuracy,
+precision, recall, and the Area Under the Receiver Operating
+Characteristic Curve (AUC).</li>
+</ul>
+<p><b>Evaluation and Summary</b></p>
+<ul>
+<li><p>Predicting shipment time range: The XGBoost model also performs
+very well with a cross validation RMSE of 0.1162.</p></li>
+<li><p>Evaluating the likelihood of delivery delays : Considering
+Accuracy, Precision, Recall and AUC scores, the Logistic Regression
+model (Accuracy: 69.13%, Precision: 79.64%, Recall: 58.93% , ACU scores:
+0.70) offers the best balance between all metrics, with the highest
+accuracy and precision and a competitive AUC score. Thus, the Logistic
+Regression model is the best overall model among the three.</p></li>
 </ul>
 <p><br></p>
 </div>
