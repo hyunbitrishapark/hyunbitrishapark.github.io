@@ -31,20 +31,18 @@ output:
 ### 1-1. Figure
 
 <p align="center">
-<img src="images/predict_shipment.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/shipment.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 [Fig. LASSO regression features by importance]
 </p>
 
-
 <br>
-
 <br><br>
 
 ### 1-2. Figure
 <p align="center">
-<img src="images/predict_shipment.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
+<img src="images/shipment.png" style="width:80%; border:0px solid; margin-right: 20px" align="center">
 </p>
 <p align="center">
 [Fig. ROC Curves by Each Model]
