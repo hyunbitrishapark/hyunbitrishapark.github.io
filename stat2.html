@@ -450,9 +450,11 @@ Characteristic Curve (AUC).</li>
 </ul>
 <p><b>Evaluation and Summary</b></p>
 <ul>
-<li><p>Predicting shipment time range: The XGBoost model also performs
-very well with a cross validation RMSE of 0.1162.</p></li>
-<li><p>Evaluating the likelihood of delivery delays : Considering
+<li><p><b>Predicting shipment time range</b>: Based on the RMSE values
+alone, the Support Vector Machine Regression model (10.59) would be the
+best choice among the three (XGBoost: 11.22, Neural Networks: 11.09) for
+predicting outcomes, as it has the lowest RMSE.</p></li>
+<li><p><b>Evaluating the likelihood of delivery delays</b>: Considering
 Accuracy, Precision, Recall and AUC scores, the Logistic Regression
 model (Accuracy: 69.13%, Precision: 79.64%, Recall: 58.93% , ACU scores:
 0.70) offers the best balance between all metrics, with the highest
