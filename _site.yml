@@ -9,7 +9,7 @@ navbar:
   left:
     ##- text: "Tutorials"
       ##href: tutorials.html
-    - text: "Stat/ML"
+    - text: "Stat/ML Projects"
       menu: 
       ##- text: "Predicting House Prices in Iowa"
         ##href: stat1.html
