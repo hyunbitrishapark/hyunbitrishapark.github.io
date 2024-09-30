@@ -78,7 +78,7 @@ Forecasting the duration of shipments and assessing the likelihood of delayed de
 
 ### 4. Code
 
-Please click [HERE](https://nbviewer.org/github/hyunbitrishapark/hyunbitrishapark.github.io/blob/main/files/Predicting_shipment_time_range_and_evaluating_delay_risk.ipynb) for the analysis report and code.
+Please click [HERE](https://nbviewer.org/github/hyunbitrishapark/hyunbitrishapark.github.io/blob/main/files/Predicting_shipment_time_range_and_evaluating_delay_risk_Sep_29%2C24.ipynb) for the analysis report and code.
 
 <br>
 
