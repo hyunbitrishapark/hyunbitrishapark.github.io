@@ -16,13 +16,13 @@ output: html_document
 <br><br>
 👋🏽 Hello, my name is **Hyun-Bi Park**. 
 
-🔥 Passionate for developing and applying statistical models to hands-on strategies that will grow business. 
+🔥 Passionate about developing, implementing, and analyzing data to drive business growth through advanced statistical models and data-driven strategies. 
 
-🎓 Soon to be grad with a M.S. in Business Analytics at University of Southern California. (December 2024)
+🎓 Master of Science in Business Analytics candidate at the University of Southern California, graduating in December 2024.
 
-💼 6.4 years of work experience at **The Coca-Cola Company**, managing and analyzing consumer and shopper data from various sources; e-commerce channels, mobile app and panel survey.
+💼 6.4 years of experience at **The Coca-Cola Company** as **Data Connection Analyst**, specializing in the analysis and management of consumer and shopper data across multiple channels, including e-commerce platforms, mobile app (D2C), and panel surveys.
 
-+ **Data Connection Analyst**
+💼 Most recent experience as a **Data Analysis Engineer Intern** at **Wavve Americas (Kocowa+)**, specializing in data-driven solutions for **a subscription-based video streaming service**. Developed a semantic keyword recommendation system using Python, LLMs (Gemini), and NLP, enhancing content discovery and user engagement. Created metrics to track subscriptions, optimized acquisition strategies, and analyzed customer segmentation to drive targeted promotions.
 
 💪 Specialties in analyzing customer-driven data with SQL, Tableau and Power BI applying insights to actionable strategies as well as helping various teams make decisions and build strategic plans. 
 
