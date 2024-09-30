@@ -24,16 +24,16 @@ output: html_document
 
 💼 Most recent experience as a **Data Analysis Engineer Intern** at **Wavve Americas (Kocowa+)**, specializing in data-driven solutions for **a subscription-based video streaming service**. Developed a semantic keyword recommendation system using Python, LLMs (Gemini), and NLP, enhancing content discovery and user engagement. Created metrics to track subscriptions, optimized acquisition strategies, and analyzed customer segmentation to drive targeted promotions.
 
-💪 Specialties in analyzing customer-driven data with SQL, Tableau and Power BI applying insights to actionable strategies as well as helping various teams make decisions and build strategic plans. 
+💪 Specialties in analyzing data with SQL, building statistical models, automating processes and reports with Python, and visualizing dashboards for reporting using Power BI and Tableau. Applying insights to actionable strategies, while supporting teams in making informed decisions and developing strategic plans.
 
-+ **Programming**: Python
++ **Programming**: Python, R
 
 + **Data Visualization**: Tableau, Power BI
 
-+ **Database Management**: SQL, PostgreSQL
++ **Database Management**: SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
 
-+ **Project Management Tool**: JIRA
++ **Project Management Tool**: JIRA, ASANA
 
-+ **Knowledge**: Machine Learning (Supervised, Unsupervised), Deep Learning, Hypothesis Testing, Regression
++ **Knowledge**: Machine Learning (Supervised, Unsupervised), Deep Learning, Hypothesis Testing, Time-series Analysis
 
 🏔 I spend my spare time by learning choreography, traveling and working out.
